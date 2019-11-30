@@ -1,6 +1,6 @@
 p,h2 {
   font-family: "Courier New";
-  color: rgb(139, 202, 228);
+  color: rgb(255, 0, 0)
 }
 
 div {
@@ -10,12 +10,12 @@ div {
 }
 
 h1, h2 {
-  text-align: center;
+  text-align: left;
 
 }
 
 h1 {
-  color: red;
+  color: black;
   font-size: 5em;
 
 }
