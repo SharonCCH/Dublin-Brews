@@ -14,7 +14,10 @@ h2 {
 
 h1 {
   color: black;
-  font-size: 5em;
+  font-size: 10em;
+}
+h1{
+  text-align: right;
 }
 
 h2 {
