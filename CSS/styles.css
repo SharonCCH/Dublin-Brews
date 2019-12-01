@@ -70,6 +70,7 @@ li:hover {
   font-size: 1.2em;
   transition: 0.5s ease;
 }*/
+
 body {
   padding-top: 65px;
 }
@@ -77,12 +78,13 @@ body {
 .title{
   font-family: 'Major Mono Display';
 }
+
 a:link {
     color:#000000;
     text-decoration:none;
     }
     a:visited {
-    color:#545454;
+    color:#000000;
     text-decoration:none;
     }
     a:hover {
